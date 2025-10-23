@@ -1,0 +1,1 @@
+{"version":3,"file":"channel.d.ts","sourceRoot":"","sources":["../../src/routes/channel.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAgC,MAAM,SAAS,CAAC;AACxE,OAAO,EAAE,cAAc,EAAE,MAAM,+BAA+B,CAAC;AAE/D,wBAAsB,aAAa,CACjC,OAAO,EAAE,eAAe,EACxB,OAAO,EAAE;IAAE,cAAc,EAAE,cAAc,CAAA;CAAE,iBA6F5C"}
